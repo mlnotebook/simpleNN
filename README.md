@@ -19,6 +19,6 @@ For more turorials and general machine learning interestingness, [follow @MLNote
 [2]: https://mlnotebook.github.io/post/nn-more-maths
 [3]: https://mlnotebook.github.io/post/transfer-functions
 [4]: https://mlnotebook.github.io/post/nn-in-python
-[5]: https://mlnotebook.github.io/post/nn-python-improvements
+[5]: https://mlnotebook.github.io/post/nn-python-tweaks
 [6]: https://www.youtube.com/playlist?list=PLRyu4ecIE9tibdzuhJr94uQeKnOFkkbq6
 [7]: www.twitter.com/mlnotebook
