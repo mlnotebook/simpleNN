@@ -21,4 +21,4 @@ For more turorials and general machine learning interestingness, [follow @MLNote
 [4]: https://mlnotebook.github.io/post/nn-in-python
 [5]: https://mlnotebook.github.io/post/nn-python-tweaks
 [6]: https://www.youtube.com/playlist?list=PLRyu4ecIE9tibdzuhJr94uQeKnOFkkbq6
-[7]: www.twitter.com/mlnotebook
+[7]: http://www.twitter.com/mlnotebook
