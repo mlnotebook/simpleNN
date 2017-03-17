@@ -6,8 +6,8 @@ For all of the maths and theory behind this simple NN, check out my series of tu
 The series contains:
 
 1. [The maths of a simple NN][1]
-2. [Vectorisation for NN][2]
-3. [Transfer functions][3]
+2. [Transfer functions][3]
+3. [Vectorisation for NN][2]
 4. [A simple NN in Python][4]
 5. [Performance improvements to the NN][5]
 
