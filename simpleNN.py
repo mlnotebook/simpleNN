@@ -107,6 +107,6 @@ bpn = backPropNN((2,2,1))
 Error = bpn.backProp(Input, Target)
 Output = bpn.FP(Input)
 
-print 'Input \tOutput \t\tTarget'
+print (Input \tOutput \t\tTarget)
 for i in range(Input.shape[0]):
-    print '{0}\t {1} \t{2}'.format(Input[i], Output[i], Target[i])
+    print ("{0}\t {1} \t{2}".format(Input[i], Output[i], Target[i]))
