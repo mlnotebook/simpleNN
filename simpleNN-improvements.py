@@ -158,6 +158,6 @@ for i in range(maxIterations + 1):
 
 Output = NN.FP(Input)
 
-print 'Input \tOutput \t\tTarget'
+print ('Input \tOutput \t\tTarget')
 for i in range(Input.shape[0]):
-    print '{0}\t {1} \t{2}'.format(Input[i], Output[i], Target[i])
+    print ("{0}\t {1} \t{2}".format(Input[i], Output[i], Target[i]))
